@@ -1,0 +1,24 @@
+{
+  "name": "lyrics-search-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skin93/lyrics-search-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skin93/lyrics-search-app/issues"
+  },
+  "homepage": "https://skin93.github.io/lyrics-search-app#readme",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
