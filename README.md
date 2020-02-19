@@ -1,6 +1,7 @@
 # Lyrics Search App
 Application for searching song lyrics.
 
+
 ## Built With
 ```
 HTML5, Sass, JavaScript, lyrics.ovh API
